@@ -2,7 +2,7 @@
   <tr>
     <!-- Left Side -->
     <td width="60%" valign="top">
-      <h2>Machine Learning Engineer 😄</h2>
+      <h2>AI Engineer 😄</h2>
       <p>
         I develop AI-driven solutions that turn complex data into actionable insights and tangible opportunities 🔮. <br><br>
         Package Specialist @<b> IBM 💼</b><br>
@@ -25,7 +25,7 @@
 ```
 # Python
 cristianBarenca = {
-    "role": "Data Science | Machine Learning Engineer | Software Engineer",
+    "role": "AI Engineer | Data Science | Machine Learning Engineer | Software Engineer",
     "current": "Package Specialist @ IBM",
     "experience": ["IBM", "Universidad de Guadalajara"],
     "passions": ["AI", "Cloud", "Education"],
@@ -37,7 +37,7 @@ cristianBarenca = {
 
 💼 whoami
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Data%20Science/%20Machine%20Learning%20Engineer/%20Software%20Engineer%20;Package%20Specialist%20@%20IBM;%20Ph.D.%20in%20IT%20🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Data%20Science/%20Machine%20Learning%20Engineer/%20Software%20Engineer%20;Package%20Specialist%20@%20IBM;%20AI%20Engineer%20🚀"/>
 </p>
 
 ---
